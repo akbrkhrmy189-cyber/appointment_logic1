@@ -1,0 +1,11 @@
+name: appointment_logic
+description: Pure-Dart scheduling rules for a small clinic (6 patients/day).
+version: 1.0.0
+repository: https://github.com/YOUR_USERNAME/appointment_logic
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^4.0.0
